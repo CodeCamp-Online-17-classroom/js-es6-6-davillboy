@@ -15,3 +15,4 @@ const personInfo3 = getInfo('Eve', 'Brown');
 console.log(personInfo3);
 // { name: 'Eve', lastName: 'Brown', hobbies: [], numberOfHobbies: 0 }
 ```
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
